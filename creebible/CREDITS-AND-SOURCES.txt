@@ -1,0 +1,21 @@
+LITTLE BEAR'S FULL BIBLE — CREDITS AND SOURCES
+
+Plains Cree Scripture:
+Kanaci Kihci Masinahikan (KKMR), a Roman-script transliteration of the
+corrected 1908 Western Cree Bible. The source edition states that this Bible
+text is in the public domain.
+https://www.bible.com/versions/2084-kkmr-kan%C4%81ci-kihci-masinahikan
+
+Language note:
+The Roman edition was generated automatically from the syllabics edition and
+may contain spelling or conversion discrepancies.
+https://creeliteracy.org/2025/04/18/rev-fred-evans-creetalker-audio-bible/
+
+English Scripture:
+King James Version only. The bundled KJV data licence is included at
+bible/LICENSE-KJV-DATA.txt.
+
+The children's story-trail introductions are original summaries. Scripture
+chapters are presented separately as complete Bible text.
+
+Created for Tatawaw Teachings.
